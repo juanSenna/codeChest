@@ -1,2 +1,2 @@
 # codeChest
-You see a bug full of go... CODES!
+You see a bug full of... CODE!
